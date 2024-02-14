@@ -18,11 +18,11 @@ const Card = ({ title, content, icon }) => (
 
 const OSite4 = () => {
   const cardsData = [
-    { title: 'Parte do quadro geral', content: '4. Cidadania e solidariedade.', icon: '🌐' },
-    { title: 'Capítulos do livro do estudante', content: '8. Construindo redes solidárias. / 9. Planejando uma festa beneficente! / 10. Celebrando tudo que aprendemos.', icon: '📚' },
-    { title: 'Atividades do projeto', content: 'V - Avaliação. / VI - Conclusão e Culminância.', icon: '📋' },
-    { title: 'Matemática e educação financeira', content: 'Pesquisa censitária ou amostral. / Planejamento e execução de pesquisa amostral.', icon: '🧮' },
-    { title: 'Recursos didáticos', content: 'Sala de aula invertida e Rotação por estação. / Redes sociais.', icon: '🎮  '},
+    { title: 'Parte do quadro geral', content: '4.', icon: '🌐' },
+    { title: 'Capítulos do livro do estudante', content: '9. Olha os preços subindo... / 10. Um mundo de oportunidades.', icon: '📚' },
+    { title: 'Atividades do projeto', content: 'V - Avaliação de resultados. / VI - Culminância.', icon: '📋' },
+    { title: 'Matemática e educação financeira', content: 'Inflação.', icon: '🧮' },
+    { title: 'Recursos didáticos', content: 'Redes sociais.', icon: '🎮  '},
   ];
 
   return (
