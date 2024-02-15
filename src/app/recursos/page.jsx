@@ -23,10 +23,8 @@ function Recursos() {
         <RecSaibaMais />
         <RecRedesDD />
         <RecLembre />
-        <RecCordel />
-        <RecRotacao />
-        <RecRota2 />
-        <RecCards />
+        
+        
     </>
     
   )
