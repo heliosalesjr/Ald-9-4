@@ -1,3 +1,5 @@
 {
-  "/atividades/page": "app/atividades/page.js"
+  "/atividades/page": "app/atividades/page.js",
+  "/page": "app/page.js",
+  "/matematica/page": "app/matematica/page.js"
 }

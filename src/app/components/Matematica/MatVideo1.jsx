@@ -14,12 +14,14 @@ function MatVideo1() {
             
               <div className="w-full md:w-1/2 pr-4">
                 <div className=" mb-4">
-                    <h1 className="text-4xl font-bold text-slate-700">Estatística</h1>
+                    <h1 className="text-4xl font-bold text-slate-700">Inflação</h1>
                 </div>
-                <h1 className=" text-slate-700 mb-4 pr-8">O vídeo ao lado mostra uma introdução à estatística, trazendo alguns conceitos iniciais sobre o  tema.</h1>
+                <h1 className=" text-slate-700 mb-4 pr-8">O primeiro vídeo mostra de uma forma genérica o que é inflação. 
+
+Nos vídeos seguintes, o Professor Maurício Carvalho do canal Portal da Matemática OBMEP traz de uma forma um pouco mais detalhada sobre como é calculada a inflação, e, em seguida, alguns exemplos mais práticos de cálculos utilizando este conceito. </h1>
               </div>
               <div className="w-full md:w-1/2">
-                <ReactPlayer url='https://youtu.be/iPRpgV-N4Q4' width="100%" />
+                <ReactPlayer url='https://youtu.be/0us8Oq7TeUg' width="100%" />
               </div>
             </div>
           </div>
