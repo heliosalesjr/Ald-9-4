@@ -8,7 +8,7 @@ function AtiImportanciaC() {
           <div
             className="absolute inset-0 bg-cover bg-center"
             style={{
-              backgroundImage: "url('images/alunos4.png')",
+              backgroundImage: "url('images/students.jpg')",
             }}
           ></div>
     
