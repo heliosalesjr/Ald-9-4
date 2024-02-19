@@ -3,7 +3,7 @@ import { TbCircleNumber1, TbCircleNumber2, TbCircleNumber3, TbCircleNumber4, TbC
 
 const AtiCulminancia = () => {
   return (
-    <div className='bg-gradient-to-tl from-primary-focus to-white py-8'>
+    <div className='bg-gradient-to-tl from-orange-200 to-white py-8'>
         <div className="flex flex-col max-w-7xl mx-auto md:flex-row items-center justify-center sm:p-8">
         
             <div className="md:w-1/2 md:ml-4">
